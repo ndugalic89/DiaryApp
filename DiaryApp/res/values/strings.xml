@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DiaryApp</string>
+    <string name="description">Enter short description</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_item_add_new">Add new</string>
+    <string name="delete_diary_item">Delete</string>
+
+</resources>
